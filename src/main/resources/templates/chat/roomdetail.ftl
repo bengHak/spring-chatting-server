@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
 <head>
     <title>Websocket ChatRoom</title>
     <!-- Required meta tags -->

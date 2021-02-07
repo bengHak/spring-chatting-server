@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
 <head>
     <title>Websocket Chat</title>
     <meta charset="utf-8">

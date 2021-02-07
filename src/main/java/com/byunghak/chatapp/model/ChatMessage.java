@@ -1,4 +1,4 @@
-package com.byunghak.chatapp.dto;
+package com.byunghak.chatapp.model;
 
 import lombok.Getter;
 import lombok.Setter;
